@@ -4,7 +4,7 @@
 ### Emma Rose Rorick 20191984
 --> responsible for code organization/edit, document prep, research
 ### Polina Kotova 20191972
---> responsible for final code and video, masking blur, presentation prep
+--> responsible for main & final code and video, masking blur, presentation prep
 ### Anastasia Gordeeva 20191186
 --> responsible for code adjustments, extra research, document adjustments, etc.
 
